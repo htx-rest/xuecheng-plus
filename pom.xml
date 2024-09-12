@@ -19,6 +19,7 @@
         <module>xuecheng-plus-generator</module>
         <module>xuecheng-plus-learning</module>
         <module>xuecheng-plus-media</module>
+        <module>xuecheng-plus-orders</module>
     </modules>
 
     <properties>
