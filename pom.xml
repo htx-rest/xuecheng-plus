@@ -15,6 +15,10 @@
         <module>xuecheng-plus-checkcode</module>
         <module>xuecheng-plus-content</module>
         <module>xuecheng-plus-message-sdk</module>
+        <module>xuecheng-plus-gateway</module>
+        <module>xuecheng-plus-generator</module>
+        <module>xuecheng-plus-learning</module>
+        <module>xuecheng-plus-media</module>
     </modules>
 
     <properties>

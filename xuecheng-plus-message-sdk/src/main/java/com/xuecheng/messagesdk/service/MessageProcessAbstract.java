@@ -9,10 +9,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * @author Mr.M
- * @version 1.0
  * @description 消息处理抽象类
- * @date 2022/9/21 19:44
  */
 @Slf4j
 @Data
