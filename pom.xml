@@ -20,6 +20,8 @@
         <module>xuecheng-plus-learning</module>
         <module>xuecheng-plus-media</module>
         <module>xuecheng-plus-orders</module>
+        <module>xuecheng-plus-system</module>
+        <module>xuecheng-plus-search</module>
     </modules>
 
     <properties>
