@@ -11,6 +11,7 @@
 
     <modules>
         <module>xuecheng-plus-base</module>
+        <module>xuecheng-plus-auth</module>
     </modules>
 
     <properties>
